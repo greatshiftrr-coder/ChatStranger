@@ -1,0 +1,8 @@
+{
+  "name": "ChatStranger",
+  "description": "An anonymous real-time 1-on-1 chat platform where you can talk to strangers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
